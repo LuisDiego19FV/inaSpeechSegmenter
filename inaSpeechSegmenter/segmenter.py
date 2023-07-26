@@ -37,6 +37,7 @@ import time
 import random
 import gc
 
+import sklearn
 from skimage.util import view_as_windows as vaw
 
 
