@@ -43,7 +43,7 @@ $ pip install inaSpeechSegmenter
 
 ```bash
 # clone git repository
-$ git clone https://github.com/ina-foss/inaSpeechSegmenter.git
+$ git clone https://github.com/LuisDiego19FV/inaSpeechSegmenter.git
 # create a python 3 virtual environement and activate it
 $ virtualenv -p python3 env
 $ source env/bin/activate
